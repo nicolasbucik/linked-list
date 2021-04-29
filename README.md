@@ -9,12 +9,12 @@ This is my own implementation of stack/queue working with linked list, this was 
 Default datatype used for this linked list is Char, defined in typedef at the top of the code, you can change this by setting diffent data type at typedef.
 
 ```c
-typedef char itemType; //Change to int (example)
+typedef char itemType; //Change 'char' to 'int' if integers are desired (example)
 ```
 Do not forget to change the return values from character types to normal integer values.
 
 ```c
-return '\0'; // Change to return 0 if data type is integer
+return '\0'; // Change to 'return 0' if data type is integer
 ```
 
 
