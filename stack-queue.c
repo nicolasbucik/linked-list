@@ -146,6 +146,7 @@ int count(p_list x){
 
 int main(void){
 
+    //This is only an example on how to use it, can be changed.
     p_list list=init();
     char ch;
 
