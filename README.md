@@ -34,7 +34,7 @@ p_list list=init();
 Putting items into the list is quite simple, use functions "insertFirst" and "insertLast", while the first parameter of the function is always the list you want to put in into and the second is data you want to put into the list.
 
 ```c
-insertFirst(list, 'B');
+insertFirst(list, 'A');
 insertLast(list, 'B');
 ```
 
