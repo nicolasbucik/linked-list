@@ -1,6 +1,6 @@
 # Info
 
-This is my own implementation of stack/queue working with linked list, this was created during an exam at my university.
+This is my own implementation of stack/queue using linked list, this was created during an exam at my university.
 
 # Usage
 
