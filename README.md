@@ -4,7 +4,7 @@ This is my own implementation of stack/queue using linked list, this was created
 
 # Usage
 
-## Chaning data type
+## Changing data type
 
 Default datatype used for this linked list is Char, defined in typedef at the top of the code, you can change this by setting diffent data type at typedef.
 
