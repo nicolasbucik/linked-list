@@ -6,7 +6,7 @@ This is my own implementation of stack/queue using linked list, this was created
 
 ## Changing data type
 
-Default datatype used for this linked list is Char, defined in typedef at the top of the code, you can change this by setting diffrent data type at typedef.
+Default datatype used for this linked list is Char, defined in typedef at the top of the code, you can change this by setting different data type at typedef.
 
 ```c
 typedef char itemType; //Change 'char' to 'int' if integers are desired (example)
