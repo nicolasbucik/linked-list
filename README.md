@@ -2,9 +2,9 @@
 
 This is my own implementation of stack/queue working with linked list, this was created during an exam at my university.
 
-#Usage
+# Usage
 
-##Chaning data type
+## Chaning data type
 
 Default datatype used for this linked list is Char, defined in typedef at the top of the code, you can change this by setting diffent data type at typedef.
 
@@ -18,7 +18,7 @@ return '\0'; // Change to return 0 if data type is integer
 ```
 
 
-##Using the linked list
+## Using the linked list
 
 Linked list can be used by defining a data type p_list and initialzing it (as it is a structure) via function "init();"
 
